@@ -49,6 +49,16 @@
       "apiReferenceUrl": null,
       "premium": false,
       "stage": "live"
+    },
+    {
+      "label": "Account Transactions V2",
+      "type": "accountInformation",
+      "categories": ["accounts"],
+      "description": "Returns a list of all transactions for current accounts belonging to the customer. If filtering parameters are not entered, last 1 years' history is retrieved.",
+      "documentationUrl": "https://developer.kuveytturk.com.tr/#/documentation/Accounts/Account%20Transactions%20V2",
+      "apiReferenceUrl": null,
+      "premium": false,
+      "stage": "live"
     }
   ],
   "apiStandards": [],
